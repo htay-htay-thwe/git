@@ -1,0 +1,43 @@
+.emojis {
+  font-size: 50px;
+}
+footer {
+  font-size: 23px;
+}
+.plus {
+  font-size: 50px;
+  margin-left: -23px;
+}
+.skies {
+  font-size: 25px;
+  font-weight: 200;
+}
+
+body {
+  font-family: Segoe UI, Segoe WP, Arial, Sans-Serif;
+  background-image: url("https://assets.msn.com/weathermapdata/1/static/background/v2.0/compactads3/Sunny.png");
+  background-size: 100% 120%;
+  width: 100%;
+  height: 50%;
+  background-repeat: no-repeat;
+  color: white;
+}
+section {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+input {
+  font-size: 22px;
+  border-radius: 7px;
+}
+#search {
+  position: relative;
+  top: -3px;
+  font-size: 20px;
+  border-radius: 7px;
+  padding: 1px 20px;
+}
+form {
+  position: static;
+}
+
